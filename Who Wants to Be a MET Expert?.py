@@ -462,7 +462,7 @@
                 </div>
             `;
             
-            // Re-enable lifelines
+            
             document.getElementById('lifeline5050').disabled = false;
             document.getElementById('lifelineAudience').disabled = false;
             document.getElementById('lifelinePhone').disabled = false;
